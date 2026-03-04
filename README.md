@@ -1,4 +1,5 @@
 # localchat
+![panic](https://github.com/AreiaNight/localchat/blob/main/vmware_Y8HtpjJBJj.png)
 
 A 1-to-1 terminal chat between two computers on the same local network, no internet required. Built in Go as a learning project.
 
